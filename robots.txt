@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewuwiinu.github.io/CoB/sitemap_index.txt
+Sitemap: https://ewuwiinu.github.io/GtN/sitemap_index.txt
+Sitemap: https://ewuwiinu.github.io/Sex/sitemap_index.txt
+Sitemap: https://ewuwiinu.github.io/WpC/sitemap_index.txt
